@@ -40,3 +40,15 @@ POST /api/products
 GET /api/products/{id}
 PATCH /api/products/{id}/stock
 GET /api/products/search
+
+## Academic Integrity & AI Declaration
+In accordance with the assignment guidelines, I confirm that this project and the accompanying report are my own work.
+
+Generative AI tools (ChatGPT and Google Gemini) were used only as learning and support tools during development. Specifically, they were used to:
+
+Clarify core concepts related to Spring Boot, REST APIs, and layered architecture
+Assist in understanding and fixing configuration issues (e.g., Maven setup, application startup errors)
+Provide guidance on structuring code (entities, services, controllers) and best practices
+Help debug errors encountered during development
+
+All final code, design decisions, and implementation were written, reviewed, and understood by me.
